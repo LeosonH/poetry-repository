@@ -546,9 +546,9 @@ def main():
     
     elif choice == "2":
         # New author scraping functionality
-        csv_file = input("Enter CSV file path (default: 'poetry_author_links.csv'): ").strip()
+        csv_file = input("Enter CSV file path (default: 'data/poetry_author_links.csv'): ").strip()
         if not csv_file:
-            csv_file = "poetry_author_links.csv"
+            csv_file = "data/poetry_author_links.csv"
         
         if not os.path.exists(csv_file):
             print(f"Error: CSV file '{csv_file}' not found.")
