@@ -1,4 +1,4 @@
-# poetry-repository
+# The Poetry Repository
 Downloads poems from the Poetry Foundation by theme!
 
 Poems are saved as text files in a /poems subdirectory. 
