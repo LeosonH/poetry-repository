@@ -1,5 +1,5 @@
 # The Poetry Repository
-Downloads poems from the Poetry Foundation by theme!
+Downloads poems from the Poetry Foundation by theme or by a range of authors.
 
 Poems are saved as text files in a /poems subdirectory. 
 
